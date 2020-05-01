@@ -1,1 +1,1 @@
-web: gunicorn meu_deploy.wsgi --log-file -
+web: gunicorn pierre_deploy.wsgi --log-file -
